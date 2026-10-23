@@ -1,4 +1,5 @@
-﻿//Determinar si un numero es par o impar
+﻿//Programa 7.
+//Determinar si un numero entero no negativo es par o impar.
 using System;
 
 class Program

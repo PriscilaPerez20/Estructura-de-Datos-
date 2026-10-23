@@ -1,4 +1,6 @@
-﻿using System;
+﻿//programa 8.
+//Mostrar una cuenta regresiva desde un número hasta 0 utilizando dos métodos que se llamen entre si.
+using System;
 class program
 {
     static void cuentaA(int n)

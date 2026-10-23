@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Prgrama 2.
+//Programa que determine el valor de una posición (entre 0 y 40) de la serie de fibonacci.
+using System;
 
 class Program
 {

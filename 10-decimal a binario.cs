@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Programa 10.
+//Convertir un número entero no negativo a si representacion binaria usando dos métodos que se llamen mutuamente.
+using System;
 
 class Program
 {

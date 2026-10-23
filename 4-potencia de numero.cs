@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Programa 4.
+//Calcular la potencia entera no negativa utilizando recursividad.
+using System;
 
 class Program
 {

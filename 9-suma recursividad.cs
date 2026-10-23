@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Programa 9.
+//Calcular la suma de los números desde 1 hasta n utilizando dos mmétodos que se llamen mutuamente.
+using System;
 class program
 {
     static int sumaA(int n)

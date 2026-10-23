@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Programa 6.
+//sumar todos los dígitos de un número entero positivo.
+using System;
 class program
 {
     static int sumaDigitos(int n)

@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Prgrama 1.
+//Calcular el factorial de un número entero no negativo.
+using System;
 
 class Program
 {

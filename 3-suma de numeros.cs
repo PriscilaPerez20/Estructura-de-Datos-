@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Programa 3.
+//Calcular la suma de todos los números desde 1 hasta el n.
+using System;
     class program
 {
     static int suma(int n)
