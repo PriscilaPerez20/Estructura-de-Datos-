@@ -3,4 +3,4 @@
 Nombre: Priscila Guadalupe Pérez Peña\
 Num. de control: 25410169\
 Carrera: Ingeniería en Sistemas Computacionales\
-Materia: Estructura de datos\
+Materia: Estructura de datos
